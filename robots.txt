@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eflurnago.github.io/sitemap.html.gz
+Sitemap: https://eflurnago.github.io/app/sitemap.html.gz
+Sitemap: https://eflurnago.github.io/assets/sitemap.html.gz
+Sitemap: https://eflurnago.github.io/css/sitemap.html.gz
+Sitemap: https://eflurnago.github.io/data/sitemap.html.gz
+Sitemap: https://eflurnago.github.io/includes/sitemap.html.gz
+Sitemap: https://eflurnago.github.io/item/sitemap.html.gz
+Sitemap: https://eflurnago.github.io/src/sitemap.html.gz
